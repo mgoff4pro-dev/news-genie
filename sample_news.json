@@ -1,0 +1,26 @@
+{
+  "_note": "Made-up sample articles used ONLY in demo mode (no news API keys). Not real news.",
+  "technology": [
+    {"title": "Chipmakers race to expand AI data center capacity", "description": "Sample article: several semiconductor firms announced new fabrication investments aimed at meeting demand for AI hardware.", "url": "https://example.com/demo/tech-1", "source": "Demo Tech Desk", "published_at": "2026-10-08T12:30:00Z"},
+    {"title": "New open-source framework simplifies building AI agents", "description": "Sample article: developers released a toolkit for chaining language model calls with tools and memory.", "url": "https://example.com/demo/tech-2", "source": "Demo Tech Desk", "published_at": "2026-10-08T10:05:00Z"},
+    {"title": "Smartphone makers shift toward on-device AI features", "description": "Sample article: new phones run more AI tasks locally to improve privacy and speed.", "url": "https://example.com/demo/tech-3", "source": "Demo Gadget Review", "published_at": "2026-10-07T21:40:00Z"},
+    {"title": "Small businesses adopt workflow automation at record pace", "description": "Sample article: a survey finds most small firms now automate at least one back-office process.", "url": "https://example.com/demo/tech-4", "source": "Demo Business Tech", "published_at": "2026-10-07T15:15:00Z"}
+  ],
+  "finance": [
+    {"title": "Stocks edge higher as investors weigh interest rate outlook", "description": "Sample article: major indexes rose modestly ahead of the central bank's next policy meeting.", "url": "https://example.com/demo/fin-1", "source": "Demo Markets Wire", "published_at": "2026-10-08T13:10:00Z"},
+    {"title": "Oil prices slip on higher inventory data", "description": "Sample article: crude futures fell after a weekly report showed larger-than-expected supplies.", "url": "https://example.com/demo/fin-2", "source": "Demo Markets Wire", "published_at": "2026-10-08T11:45:00Z"},
+    {"title": "Mortgage rates hold steady for third straight week", "description": "Sample article: average 30-year fixed rates were little changed, according to a lender survey.", "url": "https://example.com/demo/fin-3", "source": "Demo Personal Finance", "published_at": "2026-10-07T18:20:00Z"},
+    {"title": "Retail earnings season kicks off with mixed results", "description": "Sample article: early reports show strong online sales but softer in-store traffic.", "url": "https://example.com/demo/fin-4", "source": "Demo Business Daily", "published_at": "2026-10-07T14:00:00Z"}
+  ],
+  "sports": [
+    {"title": "Playoff race tightens heading into the final week", "description": "Sample article: three teams remain within one game of the last postseason spot.", "url": "https://example.com/demo/sport-1", "source": "Demo Sports Network", "published_at": "2026-10-08T12:00:00Z"},
+    {"title": "Star quarterback returns to practice after injury", "description": "Sample article: the team says he is expected to play this weekend.", "url": "https://example.com/demo/sport-2", "source": "Demo Sports Network", "published_at": "2026-10-08T09:30:00Z"},
+    {"title": "Basketball preseason opens with new rule changes", "description": "Sample article: the league introduced adjustments to replay review and the shot clock.", "url": "https://example.com/demo/sport-3", "source": "Demo Hoops Report", "published_at": "2026-10-07T20:10:00Z"},
+    {"title": "Underdog club stuns league leaders in weekend upset", "description": "Sample article: a late goal sealed a surprise win on the road.", "url": "https://example.com/demo/sport-4", "source": "Demo Football Weekly", "published_at": "2026-10-06T19:00:00Z"}
+  ],
+  "general": [
+    {"title": "City councils expand funding for public transit", "description": "Sample article: several cities approved budgets that add bus routes and service hours.", "url": "https://example.com/demo/gen-1", "source": "Demo National News", "published_at": "2026-10-08T12:45:00Z"},
+    {"title": "Weather service warns of early-season cold snap", "description": "Sample article: forecasters expect below-average temperatures across the Midwest this weekend.", "url": "https://example.com/demo/gen-2", "source": "Demo National News", "published_at": "2026-10-08T08:15:00Z"},
+    {"title": "Researchers publish new findings on sleep and memory", "description": "Sample article: a study links consistent sleep schedules to better recall.", "url": "https://example.com/demo/gen-3", "source": "Demo Science Today", "published_at": "2026-10-07T16:30:00Z"}
+  ]
+}
